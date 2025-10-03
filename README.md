@@ -1,4 +1,4 @@
-# 📚 ReadWise: Bestseller Analysis & Smart Book Recommender  
+# Bestseller Analysis & Smart Book Recommender  
 
 A complete **data analysis + recommendation system** for Amazon Bestselling Books.  
 This project provides **insights into bestseller trends** and also recommends books based on your selected reads using **content-based filtering (TF-IDF + Cosine Similarity)**.  
