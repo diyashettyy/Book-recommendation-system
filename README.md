@@ -33,6 +33,9 @@ This project provides **insights into bestseller trends** and also recommends bo
 
 ````
 
+<img width="1755" height="1495" alt="image" src="https://github.com/user-attachments/assets/08751eb3-a200-43da-8984-796576b71c08" />
+<img width="1755" height="1562" alt="image" src="https://github.com/user-attachments/assets/2c7d5af8-6b10-4e04-a436-bb8d9051fc42" />
+
 ---
 
 ## ✦ Installation
